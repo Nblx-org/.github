@@ -1,4 +1,4 @@
-Noblox exists to eliminate the tedious, time-wasting decisions that slow teams down. Managing access, handling secrets, provisioning resources—these should happen automatically, without managers or engineers needing to think about them.
+Noblox exists to eliminate the tedious, time-wasting decisions that slow teams and AI down. Managing access, handling secrets, provisioning resources—these should happen automatically, without managers or engineers needing to think about them.
 
 We build tools that:
 
